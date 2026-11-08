@@ -72,8 +72,6 @@ These are descriptive patterns in the dataset, not causal conclusions.
 
 ## Data source and reproducibility
 
-Source: **Kaggle — Telecom Customer Churn dataset**. Add the exact dataset URL and license here once verified.
+Source: 
 
-To reproduce the transformations, set up a Microsoft Fabric Lakehouse, upload the source CSV into `Files/bronze/`, attach the notebook to the Lakehouse, and run the notebook cells in order. A Fabric workspace and suitable permissions are required. The Power BI report and semantic model are hosted in Fabric; screenshots in this repository document the final output.
 
-> Note: Do not publish credentials, tenant-specific secrets, or non-public customer data.
