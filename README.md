@@ -73,5 +73,5 @@ These are descriptive patterns in the dataset, not causal conclusions.
 ## Data source and reproducibility
 
 Source: 
-
+Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
